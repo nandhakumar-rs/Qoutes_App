@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name"> Quotes</string>
+
+    <string-array name="authorname">
+        <item>Abraham Lincoln</item>
+        <item>Helen Keller</item>
+        <item>Bruce Lee</item>
+        <item>Mahatma Gandhi</item>
+        <item>Albert Einstein</item>
+        <item>Thomas A. Edison</item>
+        <item>Oscar Wilde</item>
+        <item>Eleanor Roosevelt</item>
+        <item>Aristotle</item>
+        <item>C.S. Lewis</item>
+        <item>Marilyn Monroe</item>
+        <item>Theodore Roosevelt</item>
+        <item>Oprah Winfrey</item>
+        <item>Steve Jobs</item>
+        <item>Mother Teresa</item>
+        <item>Eleanor Roosevelt</item>
+        <item>Bob Marley</item>
+        <item>Oscar Wilde</item>
+        <item>Oscar Wilde</item>
+        <item>Margaret Thatcher</item>
+        <item>Dr. Seuss</item>
+        <item>Bernard M. Baruch</item>
+        <item>Dr. Seuss</item>
+        <item>William W. Purkey</item>
+        <item>George Bernard Shaw</item>
+        <item>Henry David Thoreau</item>
+        <item>Napoleon Hill</item>
+        <item>Mark Twain</item>
+        <item>Deepak Chopra</item>
+        <item>Wayne Dyer</item>
+        <item>Napoleon Bonaparte</item>
+        <item>Arthur C. Clarke</item>
+        <item>Mark Twain</item>
+        <item>Zig Ziglar</item>
+        <item>Anthony Robbins</item>
+        <item>Euripides</item>
+        <item>Albert Camus</item>
+        <item>Robert Frost</item>
+        <item>Dale Carnegie</item>
+        <item>liver Wendell Holmes, Jr</item>
+        <item>Steve Jobs</item>
+        <item>Bill Gates</item>
+        <item>Bill Gates</item>
+        <item>Steve Jobs</item>
+        <item>Bill Gates</item>
+        <item>Mark Zuckerberg</item>
+        <item>Steve Jobs</item>
+        <item>Bill Gates</item>
+        <item>Mark Zuckerberg</item>
+        <item>Steve Jobs</item>
+    </string-array>
+</resources>
